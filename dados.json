@@ -1,0 +1,60 @@
+{
+  "Cliente": [
+    {
+      "id": 1,
+      "nome": "Cliente 1",
+      "email": "cliente1@example.com",
+      "telefone": "11111111",
+      "preferencias": [
+        "Leitura"
+      ],
+      "genero": "Masculino",
+      "aceitoTermos": true
+    },
+    {
+      "id": 2,
+      "nome": "Cliente 2",
+      "email": "cliente2@example.com",
+      "telefone": "22222222",
+      "preferencias": [
+        "Música"
+      ],
+      "genero": "Outro",
+      "aceitoTermos": true
+    },
+    {
+      "id": 3,
+      "nome": "Cliente 3",
+      "email": "cliente3@example.com",
+      "telefone": "33333333",
+      "preferencias": [
+        "Viagens"
+      ],
+      "genero": "Masculino",
+      "aceitoTermos": true
+    }
+  ],
+  "Fornecedor": [
+    {
+      "id": 1,
+      "nome": "Fornecedor 1",
+      "tipoProduto": "Eletrônicos",
+      "endereco": "Endereço 1",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Fornecedor 2 ",
+      "tipoProduto": "Alimentos",
+      "endereco": "Endereço 2",
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "nome": "Fornecedor 3",
+      "tipoProduto": "Vestuário",
+      "endereco": "Endereço 3",
+      "ativo": true
+    }
+  ]
+}
